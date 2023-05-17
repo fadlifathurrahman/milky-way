@@ -2,4 +2,4 @@
 # testing branch 
 # Latihan Git di VSCode tes8
 # testing branch
-hi main
+hi main 12
